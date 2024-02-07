@@ -1,4 +1,6 @@
-# 3D Brain Tumor Segmentation Using Deep Learning
+# NeuroDetective: Advanced 3D Brain Tumor Detection and Segmentation
+## Present Project...
+
 <img width="400" alt="image" src="https://github.com/Shaukatali11/Brain_Tumor/assets/91846164/4a0485b3-c7a7-4cb9-bc1d-f3de8b8fb371">
 
 ## Overview
